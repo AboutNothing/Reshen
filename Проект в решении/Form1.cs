@@ -17,7 +17,7 @@ namespace Проект_в_решении
         }
 
         private void button1_Click(object sender, EventArgs e) {
-            MessageBox.Show("Призываю GachiMuchi!");
+            MessageBox.Show("Призываю GachiMuchi!!");
         }
     }
 }
